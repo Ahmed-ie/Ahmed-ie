@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student at Dartmouth College. I have internship and project experience in backend development, machine learning, and full-stack development.
+I be building 
 
 
 ## 🌐 Socials:
