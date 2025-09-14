@@ -1,5 +1,5 @@
 # 💫 About Me:
-I be building 
+i be building 
 
 
 ## 🌐 Socials:
