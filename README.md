@@ -34,12 +34,14 @@ CS & Econ @ Dartmouth · Prev SWE @ Splunk | ML @ DCHA · Building ElmiLabs
 
 ### ✍️ QOTD
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-ie/Ahmed-ie/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-ie/Ahmed-ie/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Ahmed-ie/Ahmed-ie/output/snake.svg" />
+  </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-ie/Ahmed-ie/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-ie/Ahmed-ie/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ahmed-ie/Ahmed-ie/output/snake.svg" />
-</picture>
+</div>
 
 
 
