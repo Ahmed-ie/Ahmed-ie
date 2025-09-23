@@ -32,13 +32,14 @@ CS & Econ @ Dartmouth · Prev SWE @ Splunk | ML @ DCHA · Building ElmiLabs
 ![Git](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
 ### ✍️ QOTD
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-ie/Ahmed-ie/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-ie/Ahmed-ie/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ahmed-ie/Ahmed-ie/output/snake.svg" />
+</picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=Ahmed-ie&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
