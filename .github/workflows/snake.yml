@@ -1,5 +1,7 @@
 name: Generate Snake Animation
-
+permissions:
+  contents: write   
+  
 on:
   schedule: # Run every 12 hours
     - cron: "0 */12 * * *"
