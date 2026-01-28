@@ -1,9 +1,9 @@
-##### Hi, I am Ahmed 👋 
-##### I am a Computer Science student at Dartmouth College, interested in building reliable systems and applied ML tools with real-world impact.  
-##### Previously Software Engineer Intern at Splunk and DALI LAB
+#### Hi, I am Ahmed 👋 
+#### I am a Computer Science student at Dartmouth College, interested in building reliable systems and applied ML tools with real-world impact.  
+#### Previously Software Engineer Intern at Splunk and DALI LAB
 
-##### 💻 Tech Stack:
-##### Languages
+#### 💻 Tech Stack:
+#### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
-##### Frameworks and Libraries
+#### Frameworks and Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -22,7 +22,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
-##### Tools & Technologies 
+#### Tools & Technologies 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) 
@@ -36,7 +36,7 @@
 
 <div style="font-size: 10px;">
 
-##### Selected Projects 
+#### Selected Projects 
 | Project | Description | Languages & Tools |
 |-------|------------|-------|
 | **Compiler** | Designed and implemented a full compiler for a C language subset, covering lexical analysis, parsing, semantic checks, LLVM IR translation, and local/global optimizations before final code generation. | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) ![LLVM](https://img.shields.io/badge/-LLVM-262D3A?logo=llvm&logoColor=white&style=flat-square) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square) |
