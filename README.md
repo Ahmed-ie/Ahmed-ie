@@ -1,6 +1,5 @@
 #### Hi, I am Ahmed 👋 
 #### I am a Computer Science student at Dartmouth College, interested in building reliable systems and applied ML tools with real-world impact.  
-#### Previously Software Engineer Intern at Splunk and DALI LAB
 
 #### 💻 Tech Stack:
 #### Languages
